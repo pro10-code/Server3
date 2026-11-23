@@ -9,8 +9,8 @@
     "sources": [
       {
         "label": "Serveur 1 [480p SD] (53ms)",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-        "quality": "4K",
+        "url": "https://sinbod.ai.studio/api/yacine/stream/b1/master.m3u8",
+        "quality": "1080p FHD",
         "latency": 45,
         "headers": {
           "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
@@ -296,7 +296,7 @@
       },
       {
         "label": "Serveur 22 [480p SD]",
-        "url": "https://sinbod.ai.studio/api/yacine/stream/b1/master.m3u8",
+        "url": "https://my-worker.tahardsp2404.workers.dev/live/13614.ts?token=F3WAEa",
         "quality": "4K",
         "latency": 45,
         "headers": {},
@@ -308,6 +308,6 @@
     ],
     "category_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sports_icon.png",
     "is_custom": true,
-    "_uid": "uid_1795477107242_4"
+    "_uid": "uid_1795477921280_4"
   }
 ]

@@ -885,20 +885,7 @@
     "logo": "https://i.imgur.com/UYSMao3.png",
     "sources": [
       {
-        "label": "Serveur 1 [720p HD] (89ms)",
-        "url": "https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-        "quality": "720p HD",
-        "latency": 45,
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-        },
-        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "referer": "",
-        "cookie": "",
-        "origin": ""
-      },
-      {
-        "label": "Serveur 2 [720p HD] (543ms)",
+        "label": "Serveur 1 [720p HD] (283ms)",
         "url": "https://sinbod.ai.studio/api/yacine/stream/b3/master.m3u8",
         "quality": "720p HD",
         "latency": 45,
@@ -911,7 +898,46 @@
         "origin": ""
       },
       {
-        "label": "Serveur 3 [720p HD] (1220ms)",
+        "label": "Serveur 2 [720p HD] (990ms)",
+        "url": "https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "quality": "720p HD",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        },
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 3 [720p HD] (1282ms)",
+        "url": "https://sinbod.ai.studio/api/yacine/stream/b3/master.m3u8",
+        "quality": "720p HD",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+        },
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 4 [720p HD] (1468ms)",
+        "url": "https://lb.oz-tv.store/channel/beIN_Sport_3.ts?token=NUlTQkFwSjB5cW9xdDBlYllJNERrYXNjZXRDdk5RMjJGODFGWk0yV2xKUzVDYVdRT0YxbmttOGhLTGZHOFRjZUFoTGRuSWdBSHc5S3hJYWhGdlBSZWRVVGFTWURCeFJsR3d0R0VmWnh5T1JiT2NGV3phb2tRbkQzdWliYTJtclM=-105.235.129.126-1795494513-1795516113==#.m3u8",
+        "quality": "720p HD",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        },
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 5 [720p HD] (1650ms)",
         "url": "https://lb.oz-tv.store/channel/beIN_Sport_3.ts?token=NUlTQkFwSjB5cW9xdDBlYllJNERrYXNjZXRDdk5RMjJGODFGWk0yV2xKUzVDYVdRT0YxbmttOGhLTGZHOFRjZUFoTGRuSWdBSHc5S3hJYWhGdlBSZWRVVGFTWURCeFJsR3d0R0VmWnh5T1JiT2NGV3phb2tRbkQzdWliYTJtclM=-105.235.129.126-1795462371-1795483971==#.m3u8",
         "quality": "720p HD",
         "latency": 45,
@@ -924,7 +950,7 @@
         "origin": ""
       },
       {
-        "label": "Serveur 4 [1080p FHD]",
+        "label": "Serveur 6 [1080p FHD]",
         "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1337.css?x=/hls#.m3u8",
         "quality": "1080p FHD",
         "latency": 45,
@@ -939,7 +965,7 @@
         "origin": "http://js.newjavalibrary.world:8080"
       },
       {
-        "label": "Serveur 5 [720p HD]",
+        "label": "Serveur 7 [720p HD]",
         "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1334.css?x=/hls#.m3u8",
         "quality": "720p HD",
         "latency": 45,
@@ -954,7 +980,7 @@
         "origin": "http://js.newjavalibrary.world:8080"
       },
       {
-        "label": "Serveur 6 [HD]",
+        "label": "Serveur 8 [720p HD]",
         "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1331.css?x=/hls#.m3u8",
         "quality": "720p HD",
         "latency": 45,
@@ -969,7 +995,7 @@
         "origin": "http://js.newjavalibrary.world:8080"
       },
       {
-        "label": "Serveur 7 [HD]",
+        "label": "Serveur 9 [720p HD]",
         "url": "http://assets.pushyourcss.world:8080/assets/res2/java2/1433.css?x=/hls#.m3u8",
         "quality": "720p HD",
         "latency": 45,
@@ -984,7 +1010,7 @@
         "origin": "http://js.newjavalibrary.world:8080"
       },
       {
-        "label": "Serveur 8 [4K UHD]",
+        "label": "Serveur 10 [4K UHD]",
         "url": "https://api.speedapp.space/hhuqckpg/w4q92sydi4/30.m3u8?3",
         "quality": "4K",
         "latency": 45,
@@ -997,33 +1023,7 @@
         "origin": ""
       },
       {
-        "label": "Serveur 9 [1080p FHD]",
-        "url": "https://api.speedapp.space/hhuqckpg/w4q92sydi4/21.m3u8?3",
-        "quality": "1080p FHD",
-        "latency": 45,
-        "headers": {
-          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 17; SM-S928B Build/CP2A.260605.016)"
-        },
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 17; SM-S928B Build/CP2A.260605.016)",
-        "referer": "",
-        "cookie": "",
-        "origin": ""
-      },
-      {
-        "label": "Serveur 10 [720p HD]",
-        "url": "https://api.speedapp.space/hhuqckpg/w4q92sydi4/12.m3u8?3",
-        "quality": "720p HD",
-        "latency": 45,
-        "headers": {
-          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 17; SM-S928B Build/CP2A.260605.016)"
-        },
-        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 17; SM-S928B Build/CP2A.260605.016)",
-        "referer": "",
-        "cookie": "",
-        "origin": ""
-      },
-      {
-        "label": "Serveur 11 [480p SD]",
+        "label": "Serveur 11 [4K UHD]",
         "url": "https://api.speedapp.space/hhuqckpg/w4q92sydi4/3.m3u8?3",
         "quality": "4K",
         "latency": 45,
@@ -1036,7 +1036,33 @@
         "origin": ""
       },
       {
-        "label": "Serveur 12 [4K UHD]",
+        "label": "Serveur 12 [1080p FHD]",
+        "url": "https://api.speedapp.space/hhuqckpg/w4q92sydi4/21.m3u8?3",
+        "quality": "1080p FHD",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 17; SM-S928B Build/CP2A.260605.016)"
+        },
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 17; SM-S928B Build/CP2A.260605.016)",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 13 [720p HD]",
+        "url": "https://api.speedapp.space/hhuqckpg/w4q92sydi4/12.m3u8?3",
+        "quality": "720p HD",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 17; SM-S928B Build/CP2A.260605.016)"
+        },
+        "user_agent": "Dalvik/2.1.0 (Linux; U; Android 17; SM-S928B Build/CP2A.260605.016)",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 14 [4K UHD]",
         "url": "https://my-worker.tahardsp2404.workers.dev/live/89342.ts?token=F3WAEa",
         "quality": "4K",
         "latency": 45,
@@ -1047,7 +1073,51 @@
         "origin": ""
       },
       {
-        "label": "Serveur 13 [1080p FHD]",
+        "label": "Serveur 15 [4K UHD]",
+        "url": "https://prime-fast.sytes.net/prime-tv/stream/76.m3u8",
+        "quality": "4K",
+        "latency": 45,
+        "headers": {},
+        "user_agent": "",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 16 [4K UHD]",
+        "url": "https://prime-fast.sytes.net/prime-tv/stream/65.m3u8",
+        "quality": "4K",
+        "latency": 45,
+        "headers": {},
+        "user_agent": "",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 17 [4K UHD]",
+        "url": "https://prime-fast.sytes.net/prime-tv/stream/54.m3u8",
+        "quality": "4K",
+        "latency": 45,
+        "headers": {},
+        "user_agent": "",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 18 [4K UHD]",
+        "url": "https://prime-fast.sytes.net/prime-tv/stream/88.m3u8",
+        "quality": "4K",
+        "latency": 45,
+        "headers": {},
+        "user_agent": "",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 19 [1080p FHD]",
         "url": "http://primetv.cc.cd/beinfhd33/index.m3u8",
         "quality": "1080p FHD",
         "latency": 45,
@@ -1060,7 +1130,7 @@
         "origin": ""
       },
       {
-        "label": "Serveur 14 [1080p FHD]",
+        "label": "Serveur 20 [1080p FHD]",
         "url": "http://primetv.cc.cd/beinfhd33/index.m3u8",
         "quality": "1080p FHD",
         "latency": 45,
@@ -1075,7 +1145,7 @@
         "origin": "https://panel.originalpro.online"
       },
       {
-        "label": "Serveur 15 [720p HD]",
+        "label": "Serveur 21 [720p HD]",
         "url": "https://ss.oz-tv.store/bein_sport_3/index.m3u8?token=NUlTQkFwSjB5cW9xdDBlYllJNERrYXNjZXRDdk5RMjJGODFGWk0yV2xKUzVDYVdRT0YxbmttOGhLTGZHOFRjZUFoTGRuSWdBSHc5S3hJYWhGdlBSZWRVVGFTWURCeFJsR3d0R0VmWnh5T1JiT2NGV3phb2tRbkQzdWliYTJtclM=-105.235.129.126-1795462371-1795483971==#.m3u8",
         "quality": "720p HD",
         "latency": 45,
@@ -1088,7 +1158,7 @@
         "origin": ""
       },
       {
-        "label": "Serveur 16 [720p HD]",
+        "label": "Serveur 22 [720p HD]",
         "url": "https://blcco.linkip.org/live/793_.m3u8",
         "quality": "720p HD",
         "latency": 45,
@@ -1101,8 +1171,34 @@
         "origin": ""
       },
       {
-        "label": "Serveur 17 [720p HD]",
-        "url": "https://max7.maxcontentios.shop/hd/vpsirehosrue/index.html",
+        "label": "Serveur 23 [720p HD]",
+        "url": "https://ss.oz-tv.store/bein_sport_3/index.m3u8?token=NUlTQkFwSjB5cW9xdDBlYllJNERrYXNjZXRDdk5RMjJGODFGWk0yV2xKUzVDYVdRT0YxbmttOGhLTGZHOFRjZUFoTGRuSWdBSHc5S3hJYWhGdlBSZWRVVGFTWURCeFJsR3d0R0VmWnh5T1JiT2NGV3phb2tRbkQzdWliYTJtclM=-105.235.129.126-1795494513-1795516113==#.m3u8",
+        "quality": "720p HD",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        },
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 24 [720p HD]",
+        "url": "http://99.27.51.147:8080/BeinSport3/index.m3u8",
+        "quality": "720p HD",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        },
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      },
+      {
+        "label": "Serveur 25 [720p HD]",
+        "url": "https://max7.maxcontentios.shop/hd/fwcahvytgvpp/index.html",
         "quality": "720p HD",
         "latency": 45,
         "headers": {
@@ -1116,23 +1212,8 @@
         "origin": "https://max7.maxcontentios.shop"
       },
       {
-        "label": "Serveur 18 [HD]",
-        "url": "https://tur11.turboapistorage.shop/fk/ifhrwrnjcycc/index.html",
-        "quality": "720p HD",
-        "latency": 45,
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "Referer": "https://tur11.turboapistorage.shop/",
-          "Origin": "https://tur11.turboapistorage.shop"
-        },
-        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "referer": "https://tur11.turboapistorage.shop/",
-        "cookie": "",
-        "origin": "https://tur11.turboapistorage.shop"
-      },
-      {
-        "label": "Serveur 19 [HD]",
-        "url": "https://ult11.ultraiossoftstarsfeedmoon.shop/fk/ifhrwrnjcycc/index.html",
+        "label": "Serveur 26 [HD]",
+        "url": "https://ult11.ultraiossoftstarsfeedmoon.shop/fk/mbigbngxnwyz/index.html",
         "quality": "720p HD",
         "latency": 45,
         "headers": {
@@ -1146,23 +1227,38 @@
         "origin": "https://ult11.ultraiossoftstarsfeedmoon.shop"
       },
       {
-        "label": "Serveur 20 [480p SD]",
-        "url": "https://api9.apiforwebapps.online/sd2/fippqdpsfqkz/index.html",
+        "label": "Serveur 27 [HD]",
+        "url": "http://192.168.1.90:8888/live2/index.m3u8",
+        "quality": "720p HD",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+          "Referer": "https://panel.originalpro.online/",
+          "Origin": "https://panel.originalpro.online"
+        },
+        "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+        "referer": "https://panel.originalpro.online/",
+        "cookie": "",
+        "origin": "https://panel.originalpro.online"
+      },
+      {
+        "label": "Serveur 28 [480p SD]",
+        "url": "https://aif9.aifastnet.cfd/sd2/dytyxckrskmx/index.html",
         "quality": "4K",
         "latency": 45,
         "headers": {
           "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "Referer": "https://api9.apiforwebapps.online/",
-          "Origin": "https://api9.apiforwebapps.online"
+          "Referer": "https://aif9.aifastnet.cfd/",
+          "Origin": "https://aif9.aifastnet.cfd"
         },
         "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "referer": "https://api9.apiforwebapps.online/",
+        "referer": "https://aif9.aifastnet.cfd/",
         "cookie": "",
-        "origin": "https://api9.apiforwebapps.online"
+        "origin": "https://aif9.aifastnet.cfd"
       }
     ],
     "category_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sports_icon.png",
     "is_custom": true,
-    "_uid": "uid_1795477921280_10"
+    "_uid": "uid_1795549137609_10"
   }
 ]

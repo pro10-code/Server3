@@ -10,7 +10,7 @@
       {
         "label": "Serveur 1 [480p SD] (25ms)",
         "url": "https://sinbod.ai.studio/api/yacine/stream/b1/master.m3u8",
-        "quality": "4K",
+        "quality": "1080p FHD",
         "latency": 45,
         "headers": {
           "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
@@ -441,7 +441,7 @@
     ],
     "category_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sports_icon.png",
     "is_custom": true,
-    "_uid": "uid_1795548663346_4"
+    "_uid": "uid_1795549137609_4"
   },
   {
     "id": "",

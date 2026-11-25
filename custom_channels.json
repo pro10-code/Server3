@@ -1260,5 +1260,31 @@
     "category_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sports_icon.png",
     "is_custom": true,
     "_uid": "uid_1795549137609_10"
+  },
+  {
+    "id": "",
+    "name": "beIN Sport 1 EN",
+    "category": "BEIN SPORTS AR",
+    "origin_country": "",
+    "origin": "",
+    "logo": "http://dsvecwakcrtjz.ngslbs.com/channel_original_image/Sport/bein_sports_espanol.jpg",
+    "sources": [
+      {
+        "label": "Serveur 1 [480p SD] (508ms)",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd#.m3u8",
+        "quality": "4K",
+        "latency": 45,
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+        },
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "referer": "",
+        "cookie": "",
+        "origin": ""
+      }
+    ],
+    "category_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sports_icon.png",
+    "is_custom": true,
+    "_uid": "uid_1795606951365_0"
   }
 ]
